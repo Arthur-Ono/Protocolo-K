@@ -68,18 +68,11 @@ O jogo ensina e utiliza os seguintes métodos, divididos por dificuldade:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-* `/Assets`: Imagens das cartas, tabuleiro e texturas.
-* `/Docs`: Manual de Regras completo (PDF/MD) e GDD.
-* `/Build`: Arquivos de save/mod para o Tabletop Simulator.
-
----
-
 ## ✒️ Autores
 
-* **[Seu Nome/Github]** - Game Design & Programação
-* *(Adicione outros colaboradores se houver)*
+* Arthur Vicente Ono - Game Design e Game Mechanics
+* Aiam Rodrrigo Barbosa Maia - Game Design e Game Mechanics
+* Igor Gonçalves da Veiga - Game Design e Game Mechanics
 
 ---
 
