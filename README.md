@@ -73,6 +73,7 @@ O jogo ensina e utiliza os seguintes métodos, divididos por dificuldade:
 * Arthur Vicente Ono - Game Design e Game Mechanics
 * Aiam Rodrrigo Barbosa Maia - Game Design e Game Mechanics
 * Igor Gonçalves da Veiga - Game Design e Game Mechanics
+* Vitor Lourenço Silva Monteiro - Game tester e Game Mechanics
 
 ---
 
